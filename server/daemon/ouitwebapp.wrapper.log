@@ -1,0 +1,16 @@
+2023-11-28 10:05:30 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebApp wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-11-28 10:05:30 - Started 3776
+2023-11-28 10:12:18 - Stopping ouitwebapp.exe
+2023-11-28 10:12:18 - ProcessKill 3776
+2023-11-28 10:12:18 - Found child process: 12320 Name: conhost.exe
+2023-11-28 10:12:18 - Found child process: 11932 Name: node.exe
+2023-11-28 10:12:18 - Stopping process 12320
+2023-11-28 10:12:18 - Send SIGINT 12320
+2023-11-28 10:12:18 - SIGINT to 12320 failed - Killing as fallback
+2023-11-28 10:12:18 - Stopping process 11932
+2023-11-28 10:12:18 - Send SIGINT 11932
+2023-11-28 10:12:18 - SIGINT to 11932 failed - Killing as fallback
+2023-11-28 10:12:18 - Stopping process 3776
+2023-11-28 10:12:18 - Send SIGINT 3776
+2023-11-28 10:12:18 - SIGINT to 3776 failed - Killing as fallback
+2023-11-28 10:12:18 - Finished ouitwebapp.exe

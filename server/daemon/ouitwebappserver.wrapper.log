@@ -1,0 +1,922 @@
+2023-11-28 10:10:46 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-11-28 10:10:46 - Started 13100
+2023-11-28 10:12:35 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-11-28 10:12:35 - Started 5940
+2023-11-28 10:21:20 - Stopping ouitwebappserver.exe
+2023-11-28 10:21:20 - ProcessKill 5940
+2023-11-28 10:21:21 - Found child process: 5532 Name: conhost.exe
+2023-11-28 10:21:21 - Found child process: 1744 Name: node.exe
+2023-11-28 10:21:21 - Stopping process 5532
+2023-11-28 10:21:21 - Send SIGINT 5532
+2023-11-28 10:21:21 - SIGINT to 5532 failed - Killing as fallback
+2023-11-28 10:21:21 - Stopping process 1744
+2023-11-28 10:21:21 - Send SIGINT 1744
+2023-11-28 10:21:21 - SIGINT to 1744 failed - Killing as fallback
+2023-11-28 10:21:21 - Stopping process 5940
+2023-11-28 10:21:21 - Send SIGINT 5940
+2023-11-28 10:21:21 - SIGINT to 5940 failed - Killing as fallback
+2023-11-28 10:21:21 - Finished ouitwebappserver.exe
+2023-11-28 10:21:22 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-11-28 10:21:22 - Started 9364
+2023-11-28 10:42:37 - Stopping ouitwebappserver.exe
+2023-11-28 10:42:37 - ProcessKill 9364
+2023-11-28 10:42:37 - Found child process: 9640 Name: conhost.exe
+2023-11-28 10:42:37 - Found child process: 4416 Name: node.exe
+2023-11-28 10:42:37 - Stopping process 9640
+2023-11-28 10:42:37 - Send SIGINT 9640
+2023-11-28 10:42:37 - SIGINT to 9640 failed - Killing as fallback
+2023-11-28 10:42:37 - Stopping process 4416
+2023-11-28 10:42:37 - Send SIGINT 4416
+2023-11-28 10:42:37 - SIGINT to 4416 failed - Killing as fallback
+2023-11-28 10:42:37 - Stopping process 9364
+2023-11-28 10:42:37 - Send SIGINT 9364
+2023-11-28 10:42:37 - SIGINT to 9364 failed - Killing as fallback
+2023-11-28 10:42:37 - Finished ouitwebappserver.exe
+2023-11-28 10:42:38 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-11-28 10:42:38 - Started 12724
+2023-11-28 10:43:53 - Stopping ouitwebappserver.exe
+2023-11-28 10:43:53 - ProcessKill 12724
+2023-11-28 10:43:53 - Found child process: 12116 Name: conhost.exe
+2023-11-28 10:43:53 - Found child process: 5036 Name: node.exe
+2023-11-28 10:43:53 - Stopping process 12116
+2023-11-28 10:43:53 - Send SIGINT 12116
+2023-11-28 10:43:53 - SIGINT to 12116 failed - Killing as fallback
+2023-11-28 10:43:53 - Stopping process 5036
+2023-11-28 10:43:53 - Send SIGINT 5036
+2023-11-28 10:43:53 - SIGINT to 5036 failed - Killing as fallback
+2023-11-28 10:43:53 - Stopping process 12724
+2023-11-28 10:43:53 - Send SIGINT 12724
+2023-11-28 10:43:53 - SIGINT to 12724 failed - Killing as fallback
+2023-11-28 10:43:53 - Finished ouitwebappserver.exe
+2023-11-28 10:43:54 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-11-28 10:43:54 - Started 6964
+2023-11-28 10:50:16 - Stopping ouitwebappserver.exe
+2023-11-28 10:50:16 - ProcessKill 6964
+2023-11-28 10:50:16 - Found child process: 8828 Name: conhost.exe
+2023-11-28 10:50:16 - Found child process: 4148 Name: node.exe
+2023-11-28 10:50:16 - Stopping process 8828
+2023-11-28 10:50:16 - Send SIGINT 8828
+2023-11-28 10:50:16 - SIGINT to 8828 failed - Killing as fallback
+2023-11-28 10:50:16 - Stopping process 4148
+2023-11-28 10:50:16 - Send SIGINT 4148
+2023-11-28 10:50:16 - SIGINT to 4148 failed - Killing as fallback
+2023-11-28 10:50:16 - Stopping process 6964
+2023-11-28 10:50:16 - Send SIGINT 6964
+2023-11-28 10:50:16 - SIGINT to 6964 failed - Killing as fallback
+2023-11-28 10:50:16 - Finished ouitwebappserver.exe
+2023-11-28 10:50:17 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-11-28 10:50:17 - Started 12468
+2023-11-28 10:53:37 - Stopping ouitwebappserver.exe
+2023-11-28 10:53:37 - ProcessKill 12468
+2023-11-28 10:53:37 - Found child process: 8356 Name: conhost.exe
+2023-11-28 10:53:37 - Found child process: 12620 Name: node.exe
+2023-11-28 10:53:37 - Stopping process 8356
+2023-11-28 10:53:37 - Send SIGINT 8356
+2023-11-28 10:53:37 - SIGINT to 8356 failed - Killing as fallback
+2023-11-28 10:53:37 - Stopping process 12620
+2023-11-28 10:53:37 - Send SIGINT 12620
+2023-11-28 10:53:37 - SIGINT to 12620 failed - Killing as fallback
+2023-11-28 10:53:37 - Stopping process 12468
+2023-11-28 10:53:37 - Send SIGINT 12468
+2023-11-28 10:53:37 - SIGINT to 12468 failed - Killing as fallback
+2023-11-28 10:53:37 - Finished ouitwebappserver.exe
+2023-11-28 10:53:39 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-11-28 10:53:39 - Started 12864
+2023-11-28 11:26:00 - Stopping ouitwebappserver.exe
+2023-11-28 11:26:00 - ProcessKill 12864
+2023-11-28 11:26:00 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-11-28 11:26:29 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-11-28 11:26:29 - Started 4188
+2023-11-28 16:44:27 - Stopping ouitwebappserver.exe
+2023-11-28 16:44:27 - ProcessKill 4188
+2023-11-28 16:44:27 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-11-29 08:06:47 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-11-29 08:06:47 - Started 4172
+2023-11-29 16:53:17 - Stopping ouitwebappserver.exe
+2023-11-29 16:53:17 - ProcessKill 4172
+2023-11-29 16:53:17 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-11-30 07:51:47 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-11-30 07:51:47 - Started 4200
+2023-11-30 16:46:46 - Stopping ouitwebappserver.exe
+2023-11-30 16:46:46 - ProcessKill 4200
+2023-11-30 16:46:46 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-12-01 07:34:11 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-12-01 07:34:11 - Started 4176
+2023-12-01 15:51:35 - Stopping ouitwebappserver.exe
+2023-12-01 15:51:35 - ProcessKill 4176
+2023-12-01 15:51:35 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-12-04 08:09:28 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-12-04 08:09:28 - Started 4132
+2023-12-04 16:28:17 - Stopping ouitwebappserver.exe
+2023-12-04 16:28:17 - ProcessKill 4132
+2023-12-04 16:28:18 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-12-05 07:50:32 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-12-05 07:50:32 - Started 4164
+2023-12-05 16:28:28 - Stopping ouitwebappserver.exe
+2023-12-05 16:28:28 - ProcessKill 4164
+2023-12-05 16:28:28 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-12-06 08:03:35 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-12-06 08:03:35 - Started 4220
+2023-12-06 16:05:57 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-12-06 16:05:57 - Started 5556
+2023-12-06 16:06:07 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-12-06 16:06:07 - Started 1180
+2023-12-06 16:10:36 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-12-06 16:10:36 - Started 5828
+2023-12-06 16:53:13 - Stopping ouitwebappserver.exe
+2023-12-06 16:53:13 - ProcessKill 5828
+2023-12-06 16:53:14 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-12-07 07:47:56 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-12-07 07:47:56 - Started 4296
+2023-12-07 17:00:40 - Stopping ouitwebappserver.exe
+2023-12-07 17:00:40 - ProcessKill 4296
+2023-12-07 17:00:40 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-12-08 07:26:00 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-12-08 07:26:00 - Started 4136
+2023-12-08 16:52:58 - Stopping ouitwebappserver.exe
+2023-12-08 16:52:58 - ProcessKill 4136
+2023-12-08 16:52:58 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-12-11 07:50:09 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-12-11 07:50:09 - Started 4172
+2023-12-11 16:58:18 - Stopping ouitwebappserver.exe
+2023-12-11 16:58:18 - ProcessKill 4172
+2023-12-11 16:58:18 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-12-12 07:45:02 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-12-12 07:45:02 - Started 4556
+2023-12-12 16:54:25 - Stopping ouitwebappserver.exe
+2023-12-12 16:54:25 - ProcessKill 4556
+2023-12-12 16:54:25 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-12-13 07:22:08 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-12-13 07:22:08 - Started 4604
+2023-12-13 16:55:13 - Stopping ouitwebappserver.exe
+2023-12-13 16:55:13 - ProcessKill 4604
+2023-12-13 16:55:14 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-12-14 07:23:10 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-12-14 07:23:10 - Started 4480
+2023-12-14 16:54:26 - Stopping ouitwebappserver.exe
+2023-12-14 16:54:26 - ProcessKill 4480
+2023-12-14 16:54:27 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-12-15 07:29:42 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-12-15 07:29:42 - Started 4588
+2023-12-15 16:54:43 - Stopping ouitwebappserver.exe
+2023-12-15 16:54:43 - ProcessKill 4588
+2023-12-15 16:54:44 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-12-18 07:23:35 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-12-18 07:23:35 - Started 4496
+2023-12-18 16:55:49 - Stopping ouitwebappserver.exe
+2023-12-18 16:55:49 - ProcessKill 4496
+2023-12-18 16:55:49 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-12-19 07:32:23 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-12-19 07:32:23 - Started 4512
+2023-12-19 16:56:15 - Stopping ouitwebappserver.exe
+2023-12-19 16:56:15 - ProcessKill 4512
+2023-12-19 16:56:15 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-12-20 07:26:56 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-12-20 07:26:57 - Started 4536
+2023-12-20 16:55:44 - Stopping ouitwebappserver.exe
+2023-12-20 16:55:44 - ProcessKill 4536
+2023-12-20 16:55:46 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-12-21 07:38:29 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-12-21 07:38:29 - Started 4284
+2023-12-21 16:52:53 - Stopping ouitwebappserver.exe
+2023-12-21 16:52:53 - ProcessKill 4284
+2023-12-21 16:52:54 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-12-22 07:22:16 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-12-22 07:22:16 - Started 4544
+2023-12-22 16:54:38 - Stopping ouitwebappserver.exe
+2023-12-22 16:54:38 - ProcessKill 4544
+2023-12-22 16:54:38 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-12-25 07:20:24 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-12-25 07:20:24 - Started 4480
+2023-12-25 16:55:07 - Stopping ouitwebappserver.exe
+2023-12-25 16:55:07 - ProcessKill 4480
+2023-12-25 16:55:07 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-12-26 07:46:47 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-12-26 07:46:47 - Started 4624
+2023-12-26 16:52:10 - Stopping ouitwebappserver.exe
+2023-12-26 16:52:10 - ProcessKill 4624
+2023-12-26 16:52:10 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-12-27 07:22:27 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-12-27 07:22:27 - Started 4524
+2023-12-27 16:55:03 - Stopping ouitwebappserver.exe
+2023-12-27 16:55:03 - ProcessKill 4524
+2023-12-27 16:55:03 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-12-28 07:26:22 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-12-28 07:26:22 - Started 4584
+2023-12-28 16:45:04 - Stopping ouitwebappserver.exe
+2023-12-28 16:45:04 - ProcessKill 4584
+2023-12-28 16:45:04 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-12-29 07:28:22 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-12-29 07:28:22 - Started 4528
+2023-12-29 10:58:19 - Stopping ouitwebappserver.exe
+2023-12-29 10:58:19 - ProcessKill 4528
+2023-12-29 10:58:19 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-01-09 07:48:25 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-09 07:48:25 - Started 4480
+2024-01-09 16:50:03 - Stopping ouitwebappserver.exe
+2024-01-09 16:50:03 - ProcessKill 4480
+2024-01-09 16:50:04 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-01-10 07:27:12 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-10 07:27:13 - Started 4296
+2024-01-10 16:52:43 - Stopping ouitwebappserver.exe
+2024-01-10 16:52:43 - ProcessKill 4296
+2024-01-10 16:52:44 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-01-11 07:28:10 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-11 07:28:11 - Started 4816
+2024-01-11 16:50:36 - Stopping ouitwebappserver.exe
+2024-01-11 16:50:36 - ProcessKill 4816
+2024-01-11 16:50:37 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-01-12 07:28:11 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-12 07:28:11 - Started 4480
+2024-01-12 16:55:13 - Stopping ouitwebappserver.exe
+2024-01-12 16:55:13 - ProcessKill 4480
+2024-01-12 16:55:13 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-01-15 07:23:49 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-15 07:23:49 - Started 4544
+2024-01-15 16:51:54 - Stopping ouitwebappserver.exe
+2024-01-15 16:51:54 - ProcessKill 4544
+2024-01-15 16:51:54 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-01-16 07:23:43 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-16 07:23:43 - Started 4436
+2024-01-16 16:57:38 - Stopping ouitwebappserver.exe
+2024-01-16 16:57:38 - ProcessKill 4436
+2024-01-16 16:57:38 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-01-17 10:43:54 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-17 10:43:54 - Started 4412
+2024-01-17 16:53:02 - Stopping ouitwebappserver.exe
+2024-01-17 16:53:02 - ProcessKill 4412
+2024-01-17 16:53:02 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-01-18 07:24:09 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-18 07:24:09 - Started 4464
+2024-01-18 17:00:51 - Stopping ouitwebappserver.exe
+2024-01-18 17:00:51 - ProcessKill 4464
+2024-01-18 17:00:51 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-01-19 07:44:21 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-19 07:44:21 - Started 4488
+2024-01-19 15:34:40 - Stopping ouitwebappserver.exe
+2024-01-19 15:34:40 - ProcessKill 4488
+2024-01-19 15:34:41 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-01-19 15:35:08 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-19 15:35:08 - Started 4452
+2024-01-19 16:53:41 - Stopping ouitwebappserver.exe
+2024-01-19 16:53:41 - ProcessKill 4452
+2024-01-19 16:53:41 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-01-22 07:32:11 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-22 07:32:11 - Started 4468
+2024-01-22 16:54:29 - Stopping ouitwebappserver.exe
+2024-01-22 16:54:29 - ProcessKill 4468
+2024-01-22 16:54:29 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-01-23 07:27:42 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-23 07:27:42 - Started 4548
+2024-01-23 16:50:02 - Stopping ouitwebappserver.exe
+2024-01-23 16:50:02 - ProcessKill 4548
+2024-01-23 16:50:02 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-01-24 07:27:56 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-24 07:27:56 - Started 4552
+2024-01-24 16:57:58 - Stopping ouitwebappserver.exe
+2024-01-24 16:57:58 - ProcessKill 4552
+2024-01-24 16:57:58 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-01-25 07:29:51 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-25 07:29:51 - Started 4696
+2024-01-25 16:56:39 - Stopping ouitwebappserver.exe
+2024-01-25 16:56:39 - ProcessKill 4696
+2024-01-25 16:56:39 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-01-26 07:24:05 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-26 07:24:05 - Started 4304
+2024-01-26 16:52:49 - Stopping ouitwebappserver.exe
+2024-01-26 16:52:49 - ProcessKill 4304
+2024-01-26 16:52:50 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-01-29 07:26:29 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-29 07:26:29 - Started 4568
+2024-01-29 16:42:21 - Stopping ouitwebappserver.exe
+2024-01-29 16:42:21 - ProcessKill 4568
+2024-01-29 16:42:21 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-01-30 07:23:46 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-30 07:23:46 - Started 4540
+2024-01-30 16:56:18 - Stopping ouitwebappserver.exe
+2024-01-30 16:56:18 - ProcessKill 4540
+2024-01-30 16:56:18 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-01-31 07:20:04 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-31 07:20:04 - Started 4464
+2024-01-31 16:52:48 - Stopping ouitwebappserver.exe
+2024-01-31 16:52:48 - ProcessKill 4464
+2024-01-31 16:52:49 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-02-01 07:22:36 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-02-01 07:22:36 - Started 4460
+2024-02-01 16:54:30 - Stopping ouitwebappserver.exe
+2024-02-01 16:54:30 - ProcessKill 4460
+2024-02-01 16:54:31 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-02-02 07:33:59 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-02-02 07:33:59 - Started 4612
+2024-02-02 16:36:14 - Stopping ouitwebappserver.exe
+2024-02-02 16:36:14 - ProcessKill 4612
+2024-02-02 16:36:14 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-02-05 07:27:33 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-02-05 07:27:33 - Started 4472
+2024-02-05 16:50:31 - Stopping ouitwebappserver.exe
+2024-02-05 16:50:31 - ProcessKill 4472
+2024-02-05 16:50:31 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-02-06 07:20:52 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-02-06 07:20:52 - Started 4464
+2024-02-06 16:50:47 - Stopping ouitwebappserver.exe
+2024-02-06 16:50:47 - ProcessKill 4464
+2024-02-06 16:50:47 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-02-07 07:19:48 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-02-07 07:19:48 - Started 4616
+2024-02-07 16:49:19 - Stopping ouitwebappserver.exe
+2024-02-07 16:49:19 - ProcessKill 4616
+2024-02-07 16:49:19 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-02-08 13:09:21 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-02-08 13:09:21 - Started 4472
+2024-02-08 16:50:08 - Stopping ouitwebappserver.exe
+2024-02-08 16:50:08 - ProcessKill 4472
+2024-02-08 16:50:08 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-02-09 07:24:48 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-02-09 07:24:48 - Started 4552
+2024-02-09 16:47:08 - Stopping ouitwebappserver.exe
+2024-02-09 16:47:08 - ProcessKill 4552
+2024-02-09 16:47:08 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-02-12 07:23:12 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-02-12 07:23:12 - Started 4348
+2024-02-12 16:43:05 - Stopping ouitwebappserver.exe
+2024-02-12 16:43:05 - ProcessKill 4348
+2024-02-12 16:43:05 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-02-13 07:30:07 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-02-13 07:30:07 - Started 4508
+2024-02-13 16:54:54 - Stopping ouitwebappserver.exe
+2024-02-13 16:54:54 - ProcessKill 4508
+2024-02-13 16:54:55 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2024-02-14 07:20:45 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\kiv\AppData\Roaming\nvm\v21.0.0\node_modules\node-windows\lib\wrapper.js --file C:\Users\kiv\Desktop\ilyaRepa\js\VueOUIT\ouit\server\index.js --scriptoptions= --log "ouitWebAppServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-02-14 07:20:45 - Started 4592
